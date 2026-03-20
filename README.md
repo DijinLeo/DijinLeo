@@ -46,26 +46,23 @@
   <p style="color:#00FF41;">
     🤖 UiPath Robotic Process Automation  
   </p>
-## 🧠 Skills
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,js,python,c,html,css" />
+  <a href="https://github.com/DijinLeo/Movie-Review-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DijinLeo&repo=Movie-Review-app&theme=chartreuse-dark"/>
+  
+  </a>
 </p>
-
 <p align="center">
-  🤖 UiPath Robotic Process Automation
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DijinLeo&theme=chartreuse-dark"/>
 </p>
-  <div style="margin: 20px 0;">
-    <a href="#">
-      <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" height="25"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Twitter-00FF41?style=for-the-badge&logo=twitter&logoColor=black" height="25"/>
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Discord-00FF41?style=for-the-badge&logo=discord&logoColor=black" height="25"/>
-    </a>
-  </div>
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DijinLeo&layout=compact&theme=chartreuse-dark"/>
+</p>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DijinLeo&color=00FF41&style=flat-square"/>
+</p>
 ## 🌐 Connect With Me
 
 <p align="center">
