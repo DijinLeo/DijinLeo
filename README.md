@@ -100,7 +100,9 @@
 </p>
   <div style="margin: 20px 0;">
     <img src="https://streak-stats.demolab.com?user=DijinLeo&theme=matrix&hide_border=true" height="150"/>
-    <img src="https://github-profile-trophy.vercel.app/?username=DijinLeo&theme=matrix&no-frame=true" height="150"/>
+    <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DijinLeo&theme=matrix&no-frame=true&row=1&column=6&margin-w=10"/>
+</p>
   </div>
 
   <p>
