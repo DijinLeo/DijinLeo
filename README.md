@@ -1,16 +1,114 @@
-## Hi there 👋
 
-<!--
-**DijinLeo/DijinLeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- MATRIX RAIN BACKGROUND -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%"/>
+</p>
 
-Here are some ideas to get you started:
+<!-- TERMINAL BOX -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=700&lines=>+INITIALIZING...;>+LOADING+MODULES...;>+SYSTEM+READY;>+WELCOME+TO+MY+PROFILE" />
+</p><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&lines=0101010101010101010101010101;>+DIJIN+LEO+INITIALIZING...;0101010101010101010101010101;SYSTEM+LOADING...;HACKER+MODE+ACTIVATED" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%"/>
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&size=30&center=true&vCenter=true&width=600&lines=Initializing+System...;Hacker+Mode+Activated😁;Flutter+%7C+Python+%7C+Web+Dev;Building+the+Future+🚀"/>
+</h1>
+<div align="center">
+
+  <h1 style="color:#00FF41;">Hey 👋 What's Up?</h1>
+
+  <div style="margin: 20px 0;">
+    <img src="https://skillicons.dev/icons?i=flutter" height="60"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=java" height="60"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=js" height="60"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=python" height="60"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=c" height="60"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=html" height="60"/>
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=css" height="60"/>
+  </div>
+
+  <p style="color:#00FF41;">
+    🤖 UiPath Robotic Process Automation  
+  </p>
+## 🧠 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,java,js,python,c,html,css" />
+</p>
+
+<p align="center">
+  🤖 UiPath Robotic Process Automation
+</p>
+  <div style="margin: 20px 0;">
+    <a href="#">
+      <img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black" height="25"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Twitter-00FF41?style=for-the-badge&logo=twitter&logoColor=black" height="25"/>
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Discord-00FF41?style=for-the-badge&logo=discord&logoColor=black" height="25"/>
+    </a>
+  </div>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-00FF41?style=for-the-badge&logo=discord&logoColor=black"/></a>
+</p>
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DijinLeo&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=DijinLeo&theme=chartreuse-dark&hide_border=true"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DijinLeo/DijinLeo/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+## 💀 System Terminal
+
+
+> USER: DIJIN LEO
+> ROLE: CSE STUDENT
+> STACK: FLUTTER | PYTHON | WEB
+> STATUS: BUILDING PROJECTS 🚀
+
+---
+
+# 🌌 9. MATRIX FOOTER
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
+</p>
+  <div style="margin: 20px 0;">
+    <img src="https://streak-stats.demolab.com?user=DijinLeo&theme=matrix&hide_border=true" height="150"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=DijinLeo&theme=matrix&no-frame=true" height="150"/>
+  </div>
+
+  <p>
+    <img src="https://raw.githubusercontent.com/DijinLeo/DijinLeo/output/pacman-contribution-graph-dark.svg"/>
+  </p>
+
+  <div style="margin-top: 40px; color:#00FF41;">
+    <p>🚀 Crafting the future with code</p>
+  </div>
+
+</div>
