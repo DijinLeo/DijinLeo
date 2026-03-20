@@ -79,9 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DijinLeo&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
   <img src="https://streak-stats.demolab.com?user=DijinLeo&theme=chartreuse-dark&hide_border=true"/>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DijinLeo/DijinLeo/output/github-contribution-grid-snake-dark.svg"/>
-</p>
+
 ## 💀 System Terminal
 
 
@@ -92,18 +90,10 @@
 
 ---
 
-# 🌌 9. MATRIX FOOTER
-
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer"/>
 </p>
-  <div style="margin: 20px 0;">
-    <img src="https://streak-stats.demolab.com?user=DijinLeo&theme=matrix&hide_border=true" height="150"/>
-    <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DijinLeo&theme=matrix&no-frame=true&row=1&column=6&margin-w=10"/>
-</p>
-  </div>
 
   <p>
     <img src="https://raw.githubusercontent.com/DijinLeo/DijinLeo/output/pacman-contribution-graph-dark.svg"/>
