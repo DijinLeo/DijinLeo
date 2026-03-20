@@ -66,9 +66,24 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-00FF41?style=for-the-badge&logo=github&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-00FF41?style=for-the-badge&logo=discord&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/dijin-leo-d-44408431a/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  </a>
+
+  <a href="https://github.com/DijinLeo" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+
+  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" height="50"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=Let's+Connect+🚀;Open+to+Collaboration;Always+Building+💻"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF41&center=true&vCenter=true&lines=Let's+Connect+🚀;Open+to+Collaborations;Building+Cool+Stuff+💻"/>
 </p>
 ## 📊 Stats
 
